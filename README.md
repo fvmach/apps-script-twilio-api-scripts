@@ -1,4 +1,4 @@
-# apps-script-twilio-api-scripts
+# Google Apps Script for Twilio API
 
 This repository lists useful scripts for invoking Twilio APIs from Google Sheets and other GSuite Apps that support Apps Script.
 
