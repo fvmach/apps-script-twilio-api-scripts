@@ -83,4 +83,4 @@ Google Apps Script provides a Properties Service to store and retrieve key-value
 
 This setup ensures that your credentials are stored securely and not hard-coded into your script.
 
-For the complete script and more details, please refer to the [script in this repository](link-to-your-script).
+For the complete script and more details, please refer to the [script in this repository](https://github.com/fvmach/apps-script-twilio-api-scripts/blob/main/send_whatsapp_content_teamplate.gs).
